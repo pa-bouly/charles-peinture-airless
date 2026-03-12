@@ -1,2 +1,5 @@
 User-Agent: *
 Disallow:
+
+
+Sitemap: https://charles-peinture.fr/sitemap.xml
